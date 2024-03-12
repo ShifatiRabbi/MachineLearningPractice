@@ -1,0 +1,15 @@
+Student_Id,Name,Gender,Session,Department,Hall_Name,Percentage_of_Attendance,Is_Alloted
+A,Oni,F,2018-2019,CSE,Jahanara Imam,90%,Yes
+B,Mangsura,F,2018-2019,Math,Khaleda Zia,100%,Yes
+C,Keya,F,2016-2017,Chemistry,Sheikh Hasina,80%,No
+D,Tanzila,F,2018-2019,CSE,Pritilata,30%,Yes
+E,Rupa,F,2018-2019,Math,Khaleda Zia,85%,Yes
+F,Sayma,F,2018-2019,CSE,Khaleda Zia,40%,No
+G,Shifati,M,2016-2017,Chemistry,MH,70%,No
+H,Rabbi,M,2019-2020,CSE,BBH,50%,Yes
+I,Rahim,M,2018-2019,Math,MH,60%,Yes
+J,Karim,M,2018-2019,Math,MH,80%,Yes
+K,Simita,F,2018-2019,CSE,Jahanara Imam,90%,No
+L,Oni,F,2016-2017,Chemistry,Sheikh Hasina,30%,No
+M,Rupa,F,2019-2020,CSE,Jahanara Imam,20%,No
+N,Keya,F,2018-2019,CSE,Khaleda Zia,95%,Yes
